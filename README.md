@@ -1,5 +1,5 @@
-# Mapping4asustainableworld
-Mapping for a sustainable world by Menno-Jan Kraak, Robert E. Roth, Britta Ricker, Ayako Kagawa and Guillaume Le Sourd
+# Mapping for a sustainable world
+by Menno-Jan Kraak, Robert E. Roth, Britta Ricker, Ayako Kagawa and Guillaume Le Sourd
 
 ![front page](https://github.com/furuhashilab/Mapping4asustainableworld/blob/main/assets/img/small_3898826_0.jpg?raw=true)
 
