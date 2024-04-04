@@ -9,4 +9,4 @@ Mapping for a sustainable world by Menno-Jan Kraak, Robert E. Roth, Britta Ricke
 https://digitallibrary.un.org/record/3898826?v=pdf#files
 
 ## License
-CC by NC-SA and [CC BY 3.0 IGO](https://creativecommons.org/licenses/by/3.0/igo/)
+CC BY NC and [CC BY 3.0 IGO](https://creativecommons.org/licenses/by/3.0/igo/)
